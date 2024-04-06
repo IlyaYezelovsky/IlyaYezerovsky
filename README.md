@@ -1,10 +1,16 @@
-- Hi, I’m @IlyaIvanovsky.
-- I’m interested in Minecraft.
-- I’m currently learning how to make the loot tables of datapacks.
-- I’m looking to collaborate on my classmates :) I am in Grade 8
-- How to reach me I don't tell you.
+# 我叫伊利亚·德扬卡·葉泽洛夫斯基，
+一名九年级学生，也是一个普通的Minecraft各领域开发者．
 
-<!---
-IlyaIvanovsky/IlyaIvanovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+我平时（总）成绩不错，但有点偏科，具体表现为数理化及英语科目在雷达图上突出（通常接近最外层），语文、政史科目凹陷。我的MBTI为ENTP．我在班里担任物理课代表的职务，也是班里的头号整活分子之一．周末和节假日时我会创建服务器与同学[[联机]]，或者在Minecraft的一些社区（包括本wiki）上活跃，有时还给一些Mods提交翻译、在Bilibili上创作视频什么的．除此之外，我还写写小说（你没看错），就放在我的某个私密仓库中．
+
+**备考中考，会有一段时间不在**
+
+联系方式：
+
+QQ：1026491165
+
+邮箱：我的GitHub档案上有
+
+Minecraft Java版ID：Ilya_Yezerovsky
+
+Bilibili：http://space.bilibili.com/3493084490893445 (Ilya_Yezerovsky)
