@@ -11,6 +11,6 @@ QQ：1026491165
 
 邮箱：我的GitHub档案上有
 
-Minecraft Java版ID：Ilya_Yezerovsky
+Minecraft Java版ID：Ilya_Yezelovsky
 
-Bilibili：http://space.bilibili.com/3493084490893445 (Ilya_Yezerovsky)
+Bilibili：http://space.bilibili.com/3493084490893445
